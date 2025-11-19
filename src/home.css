@@ -3,8 +3,8 @@ body {
     font-family: 'Poppins', sans-serif; 
 }
     main {
-        width: 90%;
-        max-width: 1200px;
+        width: 100%;
+        max-width: 1600px;
         margin:0 auto;
     }
 h1 {

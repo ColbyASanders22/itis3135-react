@@ -1,7 +1,7 @@
 import Header from './Header';
 
 export default function Home() {
-    document.title += "Colby Sanders Clever Salmon || Introduction";
+    document.title += "Colby Sanders Clever Salmon || Home";
   return (
     <>
            <Header></Header>
